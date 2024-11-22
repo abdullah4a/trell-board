@@ -1,0 +1,81 @@
+[
+  {
+    "id": "todo-column",
+    "name": "Todo",
+    "group": {
+      "name": "todo-column",
+      "pull": true,
+      "push": true
+    },
+    "noTaskText": "No Task Available"
+  },
+  {
+    "id": "waiting-information-column",
+    "name": "Waiting for Information",
+    "group": {
+      "name": "waiting-information-column",
+      "pull": true,
+      "push": true
+    },
+    "noTaskText": "No Task Available"
+  },
+  {
+    "id": "in-progress-column",
+    "name": "In Progress",
+    "group": {
+      "name": "in-progress-column",
+      "pull": true,
+      "push": true
+    },
+    "noTaskText": "No Task Available"
+  },
+  {
+    "id": "in-review-column",
+    "name": "In Review",
+    "group": {
+      "name": "in-review-column",
+      "pull": true,
+      "push": true
+    },
+    "noTaskText": "No Task Available"
+  },
+  {
+    "id": "done-column",
+    "name": "Done",
+    "group": {
+      "name": "done-column",
+      "pull": true,
+      "push": true
+    },
+    "noTaskText": "No Task Available"
+  },
+  {
+    "id": "done-column",
+    "name": "Done",
+    "group": {
+      "name": "done-column",
+      "pull": true,
+      "push": true
+    },
+    "noTaskText": "No Task Available"
+  },
+  {
+    "id": "done-column",
+    "name": "Done",
+    "group": {
+      "name": "done-column",
+      "pull": true,
+      "push": true
+    },
+    "noTaskText": "No Task Available"
+  },{
+    "id": "done-column",
+    "name": "Done",
+    "group": {
+      "name": "done-column",
+      "pull": true,
+      "push": true
+    },
+    "noTaskText": "No Task Available"
+  }
+]
